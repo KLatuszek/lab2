@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<title>KAMIL LATUSZEK LAB2</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="styles/style.css" rel="stylesheet">
+</head>
+<body>
+
+<h2>Politechnika Gdańska</h2>
+<p>IStrategia Politechniki Gdańskiej określa system wartości, którymi uczelnia kieruje się w swoich działaniach, misję uczelni, czyli główne cele podejmowanych działań, </p>
+<p>>wizję stanu rozwoju uczelni we wskazanym horyzoncie czasowym, jak również podstawowe metody i narzędzia działania zmierzające do realizacji założonych celów.</p>
+
+<header>
+  <h2>Wydziały Politechniki Gdańskiej</h2>
+</header>
+
+<section>
+  <nav>
+    <ul>
+      <li><a href="podstrony/EIA.html">EIA</a></li>
+      <li><a href="podstrony/ETI.html">ETI</a></li>
+      <li><a href="podstrony/WILIS.html">WILIŚ</a></li>
+    </ul>
+  </nav>
+  
+  <article>
+    <h1>Wydział ELektrotechniki i Automatyki</h1>
+    <p> Od początku uruchomienia w 1904 roku Królewskiej Wyższej Szkoły Technicznej w Gdańsku (niem. Königliche Technische Hochschule zu Danzig) istniał w jej składzie Wydział Maszynoznawstwa i Elektrotechniki (niem. Abteilung für Maschinen-Ingenieurwesen und Elektrotechnik) </p>
+    <p>Wydział zlokalizowano w specjalnie zaprojektowanym i wybudowanym budynku o powierzchni ok. 1800 m2, zwanym Instytutem Elektrotechnicznym (niem. Elektrotechnisches Institut). Tak jak w przypadku całego kampusu uczelni, generalnym projektantem budynku był niemiecki architekt Albert Carsten, a koszt budowy i wyposażenia siedziby Wydziału wyniósł ponad pół miliona marek niemieckich.</p>
+
+    
+  </article>
+</section>
+
+<footer>
+  <p>autor: Kamil Latuszek</p>
+</footer>
+
+</body>
+</html>
